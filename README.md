@@ -29,6 +29,7 @@ Create your different layers as folders in the 'layers' directory, and add all t
 Once you have all your layers, go into `src/config.js` and update the `layerConfigurations` objects `layersOrder` array to be your layer folders name in order of the back layer to the front layer.
 
 _Example:_ If you were creating a portrait design, you might have a background,antena,body,ear,chess,ear base, hand shadow,etc so your `layersOrder` would look something like this:
+```js
 const layerConfigurations = [
  {
     growEditionSizeTo: 10, 
@@ -73,6 +74,7 @@ const layerConfigurations = [
     ],
   },
 ]; 
+```
 
 The `name` of each layer object represents the name of the folder (in `/layers/`) that the images reside in.
 
