@@ -1,0 +1,30 @@
+{
+  "name": "nft_art_generator_project",
+  "version": "1.0.0",
+  "description": "nft art generator project is a project build for buidl it hackathon where you can create nft collection by coding  ",
+  "main": "index.js",
+  "bin": {
+    "nft_art_generator_project": "index.js"
+  },
+  "pkg": {
+    "assets": [
+      "layers/**/*"
+    ],
+    "scripts": [
+      "src/main.js",
+      "src/config.js"
+    ],
+    "outputPath": "dist"
+  },
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tarun Walia",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "sha1": "^1.1.1"
+  },
+  "devDependencies": {}
+}
