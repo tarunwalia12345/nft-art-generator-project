@@ -1,3 +1,10 @@
+THIS IS PROJECT BUILT FOR BUIDL IT HACKATHON 
+I WONT GIVE MY LAYERS FOLDER TO YOU AND NFT FOLDER WHERE MY NFT ARE CREATED BECAUSE I HAVE TO RELEASE MY OWN NFTS NEXT MONTHS 
+THE REASON IM NOT GIVING IS BECAUSE ANYONE CAN COPY THEM HOPE YOU CAN UNDERSTAND 
+YOU CAN FREELY TAKE PUT YOUR LAYERS IN MINE CODE OF CONFIG.JS AND CREATE YOUR NFT ARTWORK FREELY 
+
+
+
 nft art generator project made with javascript and canvas api and nodejs
 
 Before you use the nft art generator project, make sure you have node.js and yarn installed.
@@ -7,7 +14,7 @@ Before you use the nft art generator project, make sure you have node.js and yar
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
 ```sh
-git clonehttps://github.com/tarunwalia12345/nft-art-generator-project
+git clone https://github.com/tarunwalia12345/nft-art-generator-project
 ```
 
 Go to the root of your folder and run this command if you have yarn installed.
@@ -393,8 +400,7 @@ Trait type: outline
 { trait: 'outline1', chance: '5', occurrence: '100' }
 ```
 
-Hope you create some awesome artworks with this code 👄 
-
+Hope you create some awesome artworks with this code 
 When you're all finished with your NFT's here, and we update your metadata .json files to the correct CID that we're going to go over in the video...
 
 
