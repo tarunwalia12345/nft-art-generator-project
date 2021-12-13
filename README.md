@@ -401,7 +401,7 @@ Trait type: outline
 ```
 
 Hope you create some awesome artworks with this code 
-When you're all finished with your NFT's here, and we update your metadata .json files to the correct CID that we're going to go over in the video...
+
 
 
 <p/>
